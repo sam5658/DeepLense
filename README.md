@@ -25,7 +25,7 @@ Evaluation Metrics: ROC curve (Receiver Operating Characteristic curve) and AUC 
 
 ## Specific Test III. Learning Mass of Dark Matter Halo 
 
-(respective solution notebook can be found [here](DeepLense/regression.ipynb at main · sam5658/DeepLense)
+(respective solution notebook can be found [here](https://github.com/sam5658/DeepLense/regression.ipynb)
 
 Task: Using the provided dataset implement a regression algorithm to learn the mapping between lensing images and the lensing dark matter halo mass. You can use the machine learning algorithm of your choice.  Please implement your approach in PyTorch or Keras and discuss your strategy.	
 
