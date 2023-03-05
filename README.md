@@ -12,7 +12,7 @@ This is my repository for the solution to the evaluation tasks in the form of no
 
 ## Common Test I. Multi-Class Classification 
 
-(the respective solution notebook can be found [here](https://github.com/sam5658/DeepLense/blob/main/Classification.ipynb) )
+(the respective solution notebook can be found [here](https://github.com/sam5658/DeepLense/blob/main/Classification.ipynb)
 
 Task: Build a model for classifying the images into lenses using PyTorch or Keras. Pick the most appropriate approach and discuss your strategy.
 
