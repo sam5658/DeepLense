@@ -4,10 +4,12 @@ This is my repository for the solution to the evaluation tasks in the form of no
 ## trained model Weights can be accessed from here
 
 [Classification_modelWeights](https://drive.google.com/file/d/1QPdJI2yWdM47B_j4vULs4ObhGXIRjFZU/view?usp=sharing)
+
 [regression_modelWeights](https://drive.google.com/file/d/1fvR47IPpZGlhsT0P59nuj3WDcrEMZh-u/view?usp=sharing)
 
 
-## Common Test I. Multi-Class Classification (the respective solution notebook can be found [here]() )
+## Common Test I. Multi-Class Classification 
+(the respective solution notebook can be found [here]() )
 
 Task: Build a model for classifying the images into lenses using PyTorch or Keras. Pick the most appropriate approach and discuss your strategy.
 
