@@ -1,7 +1,13 @@
 This is my repository for the solution to the evaluation tasks in the form of notebooks.
 **I'm interested in both Regression project and extending the deeplens pipline but I would love to take any project as you see fit, I've used pytorch in all the evaluation tests**
 
-Common Test I. Multi-Class Classification (the respective solution notebook can be found [here]() )
+## trained model Weights can be accessed from here
+
+[Classification_modelWeights](https://drive.google.com/file/d/1QPdJI2yWdM47B_j4vULs4ObhGXIRjFZU/view?usp=sharing)
+[regression_modelWeights](https://drive.google.com/file/d/1fvR47IPpZGlhsT0P59nuj3WDcrEMZh-u/view?usp=sharing)
+
+
+## Common Test I. Multi-Class Classification (the respective solution notebook can be found [here]() )
 
 Task: Build a model for classifying the images into lenses using PyTorch or Keras. Pick the most appropriate approach and discuss your strategy.
 
@@ -12,7 +18,7 @@ Dataset Description: The Dataset consists of three classes, strong lensing image
 Evaluation Metrics: ROC curve (Receiver Operating Characteristic curve) and AUC score (Area Under the ROC Curve) 
 
 
-Specific Test III. Learning Mass of Dark Matter Halo (respective solution notebook can be found [here]()
+## Specific Test III. Learning Mass of Dark Matter Halo (respective solution notebook can be found [here]()
 
 Task: Using the provided dataset implement a regression algorithm to learn the mapping between lensing images and the lensing dark matter halo mass. You can use the machine learning algorithm of your choice.  Please implement your approach in PyTorch or Keras and discuss your strategy.	
 
