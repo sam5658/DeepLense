@@ -12,7 +12,7 @@ This is my repository for the solution to the evaluation tasks in the form of no
 
 ## Common Test I. Multi-Class Classification 
 
-(the respective solution notebook can be found [here](https://github.com/sam5658/DeepLense/blob/main/Classification.ipynb)
+(the respective solution notebook can be found [here](https://github.com/sam5658/DeepLense/blob/main/Classification.ipynb) )
 
 Task: Build a model for classifying the images into lenses using PyTorch or Keras. Pick the most appropriate approach and discuss your strategy.
 
@@ -25,7 +25,7 @@ Evaluation Metrics: ROC curve (Receiver Operating Characteristic curve) and AUC 
 
 ## Specific Test III. Learning Mass of Dark Matter Halo 
 
-(respective solution notebook can be found [here](https://github.com/sam5658/DeepLense/regression.ipynb)
+(respective solution notebook can be found [here](https://github.com/sam5658/DeepLense/regression.ipynb) )
 
 Task: Using the provided dataset implement a regression algorithm to learn the mapping between lensing images and the lensing dark matter halo mass. You can use the machine learning algorithm of your choice.  Please implement your approach in PyTorch or Keras and discuss your strategy.	
 
