@@ -1,6 +1,5 @@
 This is my repository for the solution to the evaluation tasks in the form of notebooks.
 
-**I'm interested in both Regression project and extending the deeplens pipline but I would love to take any project as you see fit, I've used pytorch in all the evaluation tests**
 
 
 ## trained model Weights can be accessed from here
