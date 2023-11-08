@@ -1,4 +1,4 @@
-This is my repository for the solution to the evaluation tasks in the form of notebooks.
+This is my repository for the solution to the deeplense tasks but they also demonstrate my skills for deep learning.
 
 
 
